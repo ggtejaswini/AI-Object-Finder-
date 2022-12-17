@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+}
+.heading,.note{
+    font-family: 'Caveat Brush', cursive;
+    color: purple;
+    font-size: x-large;
+}
+canvas{
+    border: 2px solid white;
+    margin-top:180px;
+    box-shadow: 5px 5px 5px aqua;
+}
+
